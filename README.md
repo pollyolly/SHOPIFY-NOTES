@@ -11,6 +11,8 @@ Settings -> Metafield and metaobjects
 ```
 This is an extra field in the Product where after you add a Product.
 ```
+<image src="https://github.com/pollyolly/SHOPIFY-NOTES/blob/main/metafields-metaobjects.png" height="600" width="600">
+  
 ### Adding Variants 
 <image src="https://github.com/pollyolly/SHOPIFY-NOTES/blob/main/product-variants.png" height="600" width="600"/>
 
