@@ -1,7 +1,7 @@
 # SHOPIFY-NOTES
 
 ### Allow Dev Access to Shopify (Request Collaborators on Store Owner)
-Settings -> Users and permissions -> Add Staff:
+Settings -> Users and permissions -> Add Staff
 ```
 - Add first_name, last_name and email of developer
 - Select permissions
@@ -9,7 +9,11 @@ Settings -> Users and permissions -> Add Staff:
 ### Adding Metafields
 Settings -> Metafield and metaobjects
 ```
-This is an extra field in the Product where after your add a Product.
+This is an extra field in the Product where after you add a Product.
+```
+### Adding Variants 
+```
+
 ```
 ### Resource Link
 
