@@ -6,6 +6,8 @@ Settings -> Users and permissions -> Add Staff
 - Add first_name, last_name and email of developer
 - Select permissions
 ```
+<image src="https://github.com/pollyolly/SHOPIFY-NOTES/blob/main/users-permissions.png" height="600" width="600"/>
+
 ### Adding Metafields
 Settings -> Metafield and metaobjects
 ```
