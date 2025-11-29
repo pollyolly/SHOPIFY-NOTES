@@ -18,6 +18,9 @@ This is an extra field in the Product where after you add a Product.
 ### Adding Variants 
 <image src="https://github.com/pollyolly/SHOPIFY-NOTES/blob/main/product-variants.png" height="600" width="600"/>
 
+### Change Domains
+<image src="https://github.com/pollyolly/SHOPIFY-NOTES/blob/main/domains.png" height="600" width="600" />
+  
 ### Resource Link
 
 [Shopify Theme Development](https://medium.com/@johnmark_76235/shopify-theme-development-in-m1-99667d161098)
