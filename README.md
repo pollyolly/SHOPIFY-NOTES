@@ -6,7 +6,7 @@ Settings -> Users and permissions -> Add Staff:
 - Add first_name, last_name and email of developer
 - Select permissions
 ```
-### Adding Metafields
+### Adding Metafields (Extra fields after adding a Product)
 Settings -> Metafield and metaobjects
 ### Resource Link
 
