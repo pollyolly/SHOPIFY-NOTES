@@ -20,7 +20,10 @@ This is an extra field in the Product where after you add a Product.
 
 ### Change Domains
 <image src="https://github.com/pollyolly/SHOPIFY-NOTES/blob/main/domains.png" height="600" width="600" />
-  
+
+### Dev Dashboard
+<image src="https://github.com/pollyolly/SHOPIFY-NOTES/blob/main/dev-dashboard.png" height="600" width="600" />
+
 ### Resource Link
 
 [Shopify Theme Development](https://medium.com/@johnmark_76235/shopify-theme-development-in-m1-99667d161098)
