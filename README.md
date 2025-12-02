@@ -27,3 +27,5 @@ This is an extra field in the Product where after you add a Product.
 ### Resource Link
 
 [Shopify Theme Development](https://medium.com/@johnmark_76235/shopify-theme-development-in-m1-99667d161098)
+
+[Shopify API](https://shopify.dev/docs/api/shopifyql) - creating api for analytics
