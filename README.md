@@ -1,4 +1,9 @@
 # SHOPIFY-NOTES
+### Transfer Ownership
+```
+Transferring ownership will transfer also the whole database to the new owner.
+```
+<image src="https://github.com/pollyolly/SHOPIFY-NOTES/blob/main/shopify-transfer-ownership.png" height="600" width="600" />
 
 ### Allow Dev Access to Shopify (Request Collaborators on Store Owner)
 Settings -> Users and permissions -> Add Staff
