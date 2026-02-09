@@ -34,3 +34,5 @@ This is an extra field in the Product where after you add a Product.
 [Shopify Theme Development](https://medium.com/@johnmark_76235/shopify-theme-development-in-m1-99667d161098)
 
 [Shopify API](https://shopify.dev/docs/api/shopifyql) - creating api for analytics
+
+[Shopify Backup and Duplicate](https://help.shopify.com/en/manual/shopify-admin/duplicate-store?utm_campaign=social_care&utm_medium=community&utm_source=social)
